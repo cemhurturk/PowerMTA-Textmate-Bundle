@@ -1,28 +1,34 @@
-h1. Introduction
+# Introduction
 
 This is the PowerMTA bundle for Textmate which highlights certain points of the configuration file.
 
-h1. Usage
+# Usage
 
 There are some certain blocks/commands to highlight:
 
-h2. Important highlighting
+## Important highlighting
 
+<code>
 # IMPORTANT: ......
+</code>
 
-h2. To-do highlighting
+## To-do highlighting
 
+<code>
 # TODO: .....
+</code>
 
-h2. Sections
+## Sections
 
+<code>
 # Section start name (Example: Virtual-mtas)
 # --------------------------------------------------------------
 ...
 ...
 ...
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+</code>
 
-h2. Folding/Unfolding
+## Folding/Unfolding
 
 Bundle will automatically fold/un-fold certain blocks/sections
