@@ -20,14 +20,14 @@ There are some certain blocks/commands to highlight:
 
 ## Sections
 
-<code>
-\# Section start name (Example: Virtual-mtas)
-\# --------------------------------------------------------------
+<pre><code>
+# Section start name (Example: Virtual-mtas)
+# --------------------------------------------------------------
 ...
 ...
 ...
-\# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-</code>
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+</code></pre>
 
 ## Folding/Unfolding
 
