@@ -8,26 +8,26 @@ There are some certain blocks/commands to highlight:
 
 ## Important highlighting
 
-<code><pre>
+<code>
 \# IMPORTANT: ......
-</pre></code>
+</code>
 
-\#\# To-do highlighting
+## To-do highlighting
 
-<code><pre>
+<code>
 \# TODO: .....
-</pre></code>
+</code>
 
-\#\# Sections
+## Sections
 
-<code><pre>
+<code>
 \# Section start name (Example: Virtual-mtas)
 \# --------------------------------------------------------------
 ...
 ...
 ...
 \# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-<pre></code>
+</code>
 
 ## Folding/Unfolding
 
